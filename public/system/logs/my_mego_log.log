@@ -29,3 +29,55 @@
 2013-11-09 17:03:53 - PHP Notice:  Undefined variable: county in C:\Winginx\home\bambinotoys\public\catalog\view\theme\default\template\checkout\guest.tpl on line 74
 2013-11-09 17:03:53 - PHP Notice:  Undefined variable: county in C:\Winginx\home\bambinotoys\public\catalog\view\theme\default\template\checkout\guest.tpl on line 74
 2013-11-09 17:03:53 - PHP Notice:  Undefined variable: county in C:\Winginx\home\bambinotoys\public\catalog\view\theme\default\template\checkout\guest.tpl on line 74
+2013-11-09 18:14:05 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 246
+2013-11-09 18:14:05 - PHP Notice:  Undefined index: fax in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 273
+2013-11-09 18:14:05 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 277
+2013-11-09 18:14:05 - PHP Notice:  Undefined index: company_id in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 278
+2013-11-09 18:14:05 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 281
+2013-11-09 18:14:05 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 282
+2013-11-09 18:14:05 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 328
+2013-11-09 18:14:05 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 330
+2013-11-09 18:14:05 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 331
+2013-11-09 18:14:05 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 359
+2013-11-09 18:14:51 - PHP Notice:  Undefined index: fax in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 273
+2013-11-09 18:14:54 - PHP Notice:  Undefined index: fax in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 273
+2013-11-09 18:16:49 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 277
+2013-11-09 18:16:49 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest.php on line 328
+2013-11-09 18:24:55 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 144
+2013-11-09 18:24:55 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 160
+2013-11-09 18:24:55 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 162
+2013-11-09 18:24:55 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 163
+2013-11-09 18:24:55 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 198
+2013-11-09 18:24:58 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 144
+2013-11-09 18:24:58 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 160
+2013-11-09 18:24:58 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 162
+2013-11-09 18:24:58 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 163
+2013-11-09 18:24:58 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 198
+2013-11-09 18:25:12 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 162
+2013-11-09 18:25:14 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 162
+2013-11-09 18:26:18 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 144
+2013-11-09 18:26:18 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 160
+2013-11-09 18:26:18 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 162
+2013-11-09 18:26:18 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 163
+2013-11-09 18:26:18 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 198
+2013-11-09 18:27:17 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 160
+2013-11-09 18:27:17 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 162
+2013-11-09 18:27:36 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 160
+2013-11-09 18:27:36 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 162
+2013-11-09 18:28:17 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 160
+2013-11-09 18:28:17 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 162
+2013-11-09 18:33:03 - PHP Notice:  Undefined variable: entry_company in C:\Winginx\home\bambinotoys\public\catalog\view\theme\default\template\checkout\guest_shipping.tpl on line 11
+2013-11-09 18:33:03 - PHP Notice:  Undefined variable: entry_address_2 in C:\Winginx\home\bambinotoys\public\catalog\view\theme\default\template\checkout\guest_shipping.tpl on line 19
+2013-11-09 18:33:03 - PHP Notice:  Undefined variable: entry_postcode in C:\Winginx\home\bambinotoys\public\catalog\view\theme\default\template\checkout\guest_shipping.tpl on line 27
+2013-11-09 18:33:46 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 143
+2013-11-09 18:33:46 - PHP Notice:  Undefined index: company in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 159
+2013-11-09 18:33:46 - PHP Notice:  Undefined index: address_2 in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 161
+2013-11-09 18:33:46 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 162
+2013-11-09 18:33:46 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 197
+2013-11-09 18:35:04 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 129
+2013-11-09 18:35:04 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 183
+2013-11-09 18:35:26 - PHP Notice:  Undefined index: postcode in C:\Winginx\home\bambinotoys\public\catalog\controller\checkout\guest_shipping.php on line 181
+2013-11-09 19:26:22 - PHP Warning:  fsockopen(): SSL: crypto enabling timeout in C:\Winginx\home\bambinotoys\public\system\library\mail.php on line 153
+2013-11-09 19:26:22 - PHP Warning:  fsockopen(): Failed to enable crypto in C:\Winginx\home\bambinotoys\public\system\library\mail.php on line 153
+2013-11-09 19:26:22 - PHP Warning:  fsockopen(): unable to connect to ssl://smtp.gmail.com:465 (Unknown error) in C:\Winginx\home\bambinotoys\public\system\library\mail.php on line 153
+2013-11-09 19:26:22 - PHP Notice:  Error:  (0) in C:\Winginx\home\bambinotoys\public\system\library\mail.php on line 156
