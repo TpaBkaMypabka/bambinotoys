@@ -52,10 +52,8 @@
       <td><select name="country_id" class="large-field">
           <option value=""><?php echo $text_select; ?></option>
           <?php foreach ($countries as $country) { ?>
-          <?php if ($country['country_id'] == $country_id) { ?>
+          <?php if ($country['country_id'] == 220) { ?>
           <option value="<?php echo $country['country_id']; ?>" data-iso2="<?php echo $country['iso_code_2']; ?>" selected="selected"><?php echo $country['name']; ?></option>
-          <?php } else { ?>
-          <option value="<?php echo $country['country_id']; ?>" data-iso2="<?php echo $country['iso_code_2']; ?>"><?php echo $country['name']; ?></option>
           <?php } ?>
           <?php } ?>
         </select></td>
