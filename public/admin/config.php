@@ -24,7 +24,7 @@ define('DIR_CATALOG', 'C:\Winginx\home\bambinotoys\public/catalog/');
 define('DB_DRIVER', 'mysql');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'babmbino');
-define('DB_PASSWORD', 'ZbTPsQ75jF8nJuTN');
+define('DB_PASSWORD', 'Admin123');
 define('DB_DATABASE', 'babmbino');
-define('DB_PREFIX', 'oc_');
+define('DB_PREFIX', '');
 ?>
