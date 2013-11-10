@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']      = 'Оплата через терминал';
+$_['heading_title']      = 'Оплата через терминалы(I-Box и др.)';
 
 // Text
 $_['text_payment']       = 'Оплата';

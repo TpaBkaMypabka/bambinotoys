@@ -116,7 +116,7 @@ label {
 	color: #FFFFFF;
 }
 #menu > ul .parent {
-	background-image: url('../image/arrow-right.png');
+	background-image: url('../image/arrow-right.png'); 
 	background-position: 95% center;
 	background-repeat:no-repeat;
 }
@@ -126,13 +126,13 @@ label {
 #menu > ul li li a {
 	padding: 5px;
 	margin: 1px;
-	color: #FFFFFF;
+	color: #FFFFFF;	
 	width: 147px;
 }
 #menu > ul li li > a:hover {
 	margin: 0px;
 	border: 1px solid #BD4C14;
-	background-color: #391706;
+	background-color: #391706; 
 }
 
 
@@ -267,13 +267,13 @@ body > #container {
 .box > .heading .buttons .button {
 	margin-left: 5px;
 }
-.box > .content h2 {
+.box > .content h2 { 
 	text-transform: uppercase;
 	color: #FF802B;
 	font-size: 15px;
 	font-weight: bold;
 	padding-bottom: 3px;
-	border-bottom: 1px dotted #000000;
+	border-bottom: 1px dotted #000000;	
 }
 .box > .content {
 	padding: 10px;

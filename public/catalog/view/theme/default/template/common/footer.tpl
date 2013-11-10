@@ -21,7 +21,7 @@
     <h3><?php echo $text_extra; ?></h3>
     <ul>
       <li><a href="<?php echo $manufacturer; ?>"><?php echo $text_manufacturer; ?></a></li>
-
+     
     </ul>
   </div>
   <div class="column">

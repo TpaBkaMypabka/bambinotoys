@@ -20,7 +20,7 @@ define('DIR_LOGS', 'C:\Winginx\home\bambinotoys\public/system/logs/');
 // DB
 define('DB_DRIVER', 'mysql');
 define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'babmbino');
+define('DB_USERNAME', 'bambino');
 define('DB_PASSWORD', 'Admin123');
 define('DB_DATABASE', 'babmbino');
 define('DB_PREFIX', '');

@@ -158,8 +158,10 @@
           <td><select name="country_id">
               <option value=""><?php echo $text_select; ?></option>
               <?php foreach ($countries as $country) { ?>
-              <?php if ($country['country_id'] == 220) { ?>
+              <?php if ($country['country_id'] == $country_id) { ?>
               <option value="<?php echo $country['country_id']; ?>" selected="selected"><?php echo $country['name']; ?></option>
+              <?php } else { ?>
+              <option value="<?php echo $country['country_id']; ?>"><?php echo $country['name']; ?></option>
               <?php } ?>
               <?php } ?>
             </select></td>
